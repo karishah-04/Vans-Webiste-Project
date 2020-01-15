@@ -2,7 +2,7 @@
 
 My recreation of the Vans homepage. I just googled the pictures. :)
 
-a) I wanted a refresher on my HTML and learn the different aspects of HTML that I haven't already learned. 
+a) I wanted a refresher on my HTML and learn the different aspects of HTML that I haven't already learned.
 
 b) I learned how to create an input box for an email subscription and social media boxes to access the Vans social media pages.
 
